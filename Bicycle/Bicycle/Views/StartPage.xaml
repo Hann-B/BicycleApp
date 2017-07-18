@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bicycle.Views.StartPage">
+
+    <ContentPage.ToolbarItems>
+        
+        <ToolbarItem 
+            Name="LogInItem" 
+            Clicked="LogInItem_Clicked"
+            Order="Primary" 
+            Text="Log In" 
+            Priority="0"/>
+        <ToolbarItem 
+            Name="UserSettingsItem" 
+            Clicked="UserSettingsItem_Clicked"
+            Order="Primary" 
+            Text="Settings" 
+            Priority="1"/>
+    </ContentPage.ToolbarItems>  
+    
+  <!--Pages can be added as references or inline-->  
+  <ContentPage Title="Top Destinations" />
+  <ContentPage Title="Tab 2" />
+  <ContentPage Title="Plan a Trip" />
+</TabbedPage>
