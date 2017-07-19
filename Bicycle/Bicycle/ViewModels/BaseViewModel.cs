@@ -1,7 +1,8 @@
-﻿using Bicycle.Helpers;
+﻿
+
+using Bicycle.Helpers;
 using Bicycle.Models;
 using Bicycle.Services;
-
 using Xamarin.Forms;
 
 namespace Bicycle.ViewModels
@@ -12,6 +13,7 @@ namespace Bicycle.ViewModels
         /// Get the azure service instance
         /// </summary>
         public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
+        public IDestData<Destination> DestData => DependencyService.Get<IDestData<Destination>>();
 
         bool isBusy = false;
         public bool IsBusy

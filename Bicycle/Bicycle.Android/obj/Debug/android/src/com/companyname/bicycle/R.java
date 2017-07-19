@@ -2562,9 +2562,10 @@ containing a value of this type.
         public static final int mr_ic_pause_light=0x7f02009f;
         public static final int mr_ic_play_dark=0x7f0200a0;
         public static final int mr_ic_play_light=0x7f0200a1;
-        public static final int notification_template_icon_bg=0x7f0200a4;
+        public static final int notification_template_icon_bg=0x7f0200a5;
         public static final int profile_generic=0x7f0200a2;
         public static final int slideout=0x7f0200a3;
+        public static final int splash=0x7f0200a4;
     }
     public static final class id {
         public static final int action0=0x7f07008c;
@@ -2847,7 +2848,7 @@ containing a value of this type.
         public static final int Animation_AppCompat_Dialog=0x7f0a00a3;
         public static final int Animation_AppCompat_DropDownUp=0x7f0a00a4;
         public static final int Animation_Design_BottomSheetDialog=0x7f0a015a;
-        public static final int AppCompatDialogStyle=0x7f0a0174;
+        public static final int AppCompatDialogStyle=0x7f0a0177;
         public static final int Base_AlertDialog_AppCompat=0x7f0a00a5;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f0a00a6;
         public static final int Base_Animation_AppCompat_Dialog=0x7f0a00a7;
@@ -2995,10 +2996,14 @@ containing a value of this type.
         public static final int CardView=0x7f0a0017;
         public static final int CardView_Dark=0x7f0a0019;
         public static final int CardView_Light=0x7f0a001a;
-        public static final int MyTheme=0x7f0a0172;
+        public static final int MainTheme=0x7f0a0173;
         /**  Base theme applied no matter what API 
          */
-        public static final int MyTheme_Base=0x7f0a0173;
+        public static final int MainTheme_Base=0x7f0a0174;
+        public static final int MyTheme=0x7f0a0175;
+        /**  Base theme applied no matter what API 
+         */
+        public static final int MyTheme_Base=0x7f0a0176;
         public static final int Platform_AppCompat=0x7f0a0032;
         public static final int Platform_AppCompat_Light=0x7f0a0033;
         public static final int Platform_ThemeOverlay_AppCompat=0x7f0a0095;
@@ -3113,6 +3118,7 @@ containing a value of this type.
         public static final int Theme_MediaRouter_Light=0x7f0a0001;
         public static final int Theme_MediaRouter_Light_DarkControlPanel=0x7f0a0002;
         public static final int Theme_MediaRouter_LightControlPanel=0x7f0a0003;
+        public static final int Theme_Splash=0x7f0a0172;
         public static final int ThemeOverlay_AppCompat=0x7f0a010e;
         public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0a010f;
         public static final int ThemeOverlay_AppCompat_Dark=0x7f0a0110;

@@ -6,6 +6,10 @@ Bicycle.Droid.MainActivity, Bicycle.Android;md5a2403b10b79229dd3c507f293749db1f.
 Bicycle.Droid.MainActivity, Bicycle.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a2403b10b79229dd3c507f293749db1f.MainActivity
 Bicycle.Droid.MainActivity;md5a2403b10b79229dd3c507f293749db1f.MainActivity
 bicycle.droid.MainActivity;md5a2403b10b79229dd3c507f293749db1f.MainActivity
+Bicycle.Droid.SplashActivity, Bicycle.Android;md5a2403b10b79229dd3c507f293749db1f.SplashActivity
+Bicycle.Droid.SplashActivity, Bicycle.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a2403b10b79229dd3c507f293749db1f.SplashActivity
+Bicycle.Droid.SplashActivity;md5a2403b10b79229dd3c507f293749db1f.SplashActivity
+bicycle.droid.SplashActivity;md5a2403b10b79229dd3c507f293749db1f.SplashActivity
 Android.Support.CustomTabs.CustomTabsClient/CustomTabsCallbackImpl, Xamarin.Android.Support.CustomTabs;android.support.customtabs.CustomTabsClient_CustomTabsCallbackImpl
 Android.Support.CustomTabs.CustomTabsClient+CustomTabsCallbackImpl, Xamarin.Android.Support.CustomTabs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.customtabs.CustomTabsClient_CustomTabsCallbackImpl
 Android.Support.CustomTabs.CustomTabsClient.CustomTabsCallbackImpl;android.support.customtabs.CustomTabsClient_CustomTabsCallbackImpl

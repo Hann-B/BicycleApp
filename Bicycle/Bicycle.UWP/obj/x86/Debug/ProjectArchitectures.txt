@@ -1,0 +1,2 @@
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle.UWP\Bicycle.UWP.csproj;x86
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle\Bicycle.csproj;neutral

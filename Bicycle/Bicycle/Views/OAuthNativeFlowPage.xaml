@@ -8,8 +8,11 @@
         
         <StackLayout VerticalOptions="Center">
             <Button Text="Google" Clicked="GoogleLoginClicked" />
+            <Button Text="LinkedIn" Clicked="LinkedInLoginClicked" />
+            <Button Text="Instagram" Clicked="InstagramLoginClicked" />
             <Button Text="Continue as Guest" Clicked="GuestLoginClicked"/>
         </StackLayout>
-        
+
     </ContentPage.Content>
 </ContentPage>
+    

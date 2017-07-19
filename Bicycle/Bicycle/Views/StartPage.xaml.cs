@@ -15,15 +15,21 @@ namespace Bicycle.Views
     {
         public StartPage()
         {
+            this.Children.Add(new TopDestinationsPage());
+            this.Children.Add(new PlanATripPage());
+            this.Children.Add(new ItemsPage());
+
             InitializeComponent();
+
             this.BindingContext = new StartViewModel(this);
             //HandleLogInButton();
             //HandleSettingsButton();
         }
 
+
         private async void LogInItem_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new OAuthNativeFlowPage());
+        {           
+                await Navigation.PushAsync(new OAuthNativeFlowPage());           
         }
 
         private async void UserSettingsItem_Clicked(object sender, EventArgs e)

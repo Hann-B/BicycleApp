@@ -11,7 +11,7 @@
 namespace Bicycle.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Hanna\\documents\\visual studio 2017\\Projects\\Bicycle\\Bicycle\\Bicycle\\View" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Hanna\\Documents\\Visual Studio 2017\\Projects\\Bicycle\\Bicycle\\Bicycle\\View" +
         "s\\OAuthNativeFlowPage.xaml")]
     public partial class OAuthNativeFlowPage : global::Xamarin.Forms.ContentPage {
         

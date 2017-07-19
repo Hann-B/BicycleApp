@@ -2215,14 +2215,17 @@ namespace Bicycle.Droid
 			// aapt resource value: 0x7f0200a1
 			public const int mr_ic_play_light = 2130837665;
 			
-			// aapt resource value: 0x7f0200a4
-			public const int notification_template_icon_bg = 2130837668;
+			// aapt resource value: 0x7f0200a5
+			public const int notification_template_icon_bg = 2130837669;
 			
 			// aapt resource value: 0x7f0200a2
 			public const int profile_generic = 2130837666;
 			
 			// aapt resource value: 0x7f0200a3
 			public const int slideout = 2130837667;
+			
+			// aapt resource value: 0x7f0200a4
+			public const int splash = 2130837668;
 			
 			static Drawable()
 			{
@@ -3112,8 +3115,8 @@ namespace Bicycle.Droid
 			// aapt resource value: 0x7f0a015a
 			public const int Animation_Design_BottomSheetDialog = 2131362138;
 			
-			// aapt resource value: 0x7f0a0174
-			public const int AppCompatDialogStyle = 2131362164;
+			// aapt resource value: 0x7f0a0177
+			public const int AppCompatDialogStyle = 2131362167;
 			
 			// aapt resource value: 0x7f0a00a5
 			public const int Base_AlertDialog_AppCompat = 2131361957;
@@ -3556,11 +3559,17 @@ namespace Bicycle.Droid
 			// aapt resource value: 0x7f0a001a
 			public const int CardView_Light = 2131361818;
 			
-			// aapt resource value: 0x7f0a0172
-			public const int MyTheme = 2131362162;
-			
 			// aapt resource value: 0x7f0a0173
-			public const int MyTheme_Base = 2131362163;
+			public const int MainTheme = 2131362163;
+			
+			// aapt resource value: 0x7f0a0174
+			public const int MainTheme_Base = 2131362164;
+			
+			// aapt resource value: 0x7f0a0175
+			public const int MyTheme = 2131362165;
+			
+			// aapt resource value: 0x7f0a0176
+			public const int MyTheme_Base = 2131362166;
 			
 			// aapt resource value: 0x7f0a0032
 			public const int Platform_AppCompat = 2131361842;
@@ -3903,6 +3912,9 @@ namespace Bicycle.Droid
 			
 			// aapt resource value: 0x7f0a0003
 			public const int Theme_MediaRouter_LightControlPanel = 2131361795;
+			
+			// aapt resource value: 0x7f0a0172
+			public const int Theme_Splash = 2131362162;
 			
 			// aapt resource value: 0x7f0a010e
 			public const int ThemeOverlay_AppCompat = 2131362062;

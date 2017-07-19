@@ -14,7 +14,8 @@
         <data android:scheme="com.googleusercontent.apps.374620500792-297i1p7mdjvtnd3g0ic9oj155i47l7p5" />
       </intent-filter>
     </activity>
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="Bicycle.Droid" android:theme="@style/MyTheme" android:name="md5a2403b10b79229dd3c507f293749db1f.MainActivity">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="Bicycle.Droid" android:theme="@style/MyTheme" android:name="md5a2403b10b79229dd3c507f293749db1f.MainActivity" />
+    <activity android:label="SplashActivity" android:noHistory="true" android:theme="@style/Theme.Splash" android:name="md5a2403b10b79229dd3c507f293749db1f.SplashActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

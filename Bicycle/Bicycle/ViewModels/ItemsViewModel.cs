@@ -8,6 +8,7 @@ using Bicycle.Views;
 
 using Xamarin.Forms;
 
+
 namespace Bicycle.ViewModels
 {
     public class ItemsViewModel : BaseViewModel
