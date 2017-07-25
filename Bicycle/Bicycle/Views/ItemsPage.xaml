@@ -4,9 +4,11 @@
              x:Class="Bicycle.Views.ItemsPage"
               Title="{Binding Title}"
              x:Name="BrowseItemsPage">
+    
   <ContentPage.ToolbarItems>
   	<ToolbarItem Text="Add Item" Clicked="AddItem_Clicked" />
   </ContentPage.ToolbarItems>
+    
   <ContentPage.Content>
     <StackLayout>
       <ListView x:Name="ItemsListView"

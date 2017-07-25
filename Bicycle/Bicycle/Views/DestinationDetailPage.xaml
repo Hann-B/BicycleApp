@@ -5,8 +5,8 @@
              Title="{Binding Title}">
     
     <StackLayout Spacing="20" Padding="15">
-        <Label Text="{Binding Item.PlaceNum}" FontSize="Medium"/>
-        <Label Text="{Binding Item.Location}" FontSize="Large"/>
-        <Label Text="{Binding Item.NumOfTrails}" FontSize="Medium"/>
+        <Label Text="{Binding Destination.PlaceNumber}}" FontSize="Medium"/>
+        <Label Text="{Binding Destination.Location}" FontSize="Large"/>
+        <Label Text="{Binding Destination.NumOfTrails}" FontSize="Medium"/>
     </StackLayout>
 </ContentPage>

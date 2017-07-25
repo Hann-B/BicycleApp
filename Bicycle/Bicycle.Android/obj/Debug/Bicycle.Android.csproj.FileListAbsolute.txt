@@ -60,3 +60,4 @@ C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle.And
 C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\Hanna\documents\visual studio 2017\Projects\Bicycle\Bicycle\Bicycle.Android\obj\Debug\res\drawable\icon.png
 C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle.Android\obj\Debug\res\drawable\splash.jpg
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle.Android\obj\Debug\res\drawable\bikeicon.png

@@ -4,10 +4,6 @@
              x:Class="Bicycle.Views.TopDestinationsPage"
              x:Name="topDestinationsPage"
              Title="{Binding Title}">
-    
-    <ActivityIndicator IsVisible="{Binding Source={x:Reference topDestinationsPage}, Path=IsBusy}"
-                       IsRunning="{Binding Source={x:Reference topDestinationsPage}, Path=IsBusy}"/>
-
 
     <ContentPage.Content>
         <StackLayout>
@@ -24,18 +20,18 @@
                     <DataTemplate>
                         <ViewCell>
                             <StackLayout Padding="10">
-                                <Label Text="{Binding PlaceNum}"
-                       LineBreakMode="NoWrap"
-                       Style="{DynamicResource ListItemTextStyle}"
-                       FontSize="16"/>
+                                <Label Text="{Binding PlaceNumber}"
+                                       LineBreakMode="NoWrap"
+                                       Style="{DynamicResource ListItemTextStyle}"
+                                       FontSize="16"/>
                                 <Label Text="{Binding Location}"
-                       LineBreakMode="NoWrap"
-                       Style="{DynamicResource ListItemDetailTextStyle}"
-                       FontSize="16"/>
+                                       LineBreakMode="NoWrap"
+                                       Style="{DynamicResource ListItemDetailTextStyle}"
+                                       FontSize="16"/>
                                 <Label Text="{Binding NumOfTrails}"
-                       LineBreakMode="NoWrap"
-                       Style="{DynamicResource ListItemDetailTextStyle}"
-                       FontSize="13"/>
+                                       LineBreakMode="NoWrap"
+                                       Style="{DynamicResource ListItemDetailTextStyle}"
+                                       FontSize="13"/>
                             </StackLayout>
                         </ViewCell>
                     </DataTemplate>
