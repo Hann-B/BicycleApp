@@ -34,7 +34,10 @@ c:\users\hanna\documents\visual studio 2017\Projects\Bicycle\Bicycle\Bicycle\obj
 c:\users\hanna\documents\visual studio 2017\Projects\Bicycle\Bicycle\Bicycle\obj\Debug\Bicycle.pdb
 C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle\obj\Debug\Bicycle.csprojResolveAssemblyReference.cache
 C:\Users\Hanna\documents\visual studio 2017\Projects\Bicycle\Bicycle\Bicycle\obj\Debug\Bicycle.Views.StartPage.xaml.g.cs
-C:\Users\Hanna\documents\visual studio 2017\Projects\Bicycle\Bicycle\Bicycle\obj\Debug\Bicycle.Views.SettingsPage.xaml.g.cs
 C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle\obj\Debug\Bicycle.Views.TopDestinationsPage.xaml.g.cs
 C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle\obj\Debug\Bicycle.Views.PlanATripPage.xaml.g.cs
 C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle\obj\Debug\Bicycle.Views.DestinationDetailPage.xaml.g.cs
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle\bin\Debug\Mono.Android.dll
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle\bin\Debug\Mono.Android.pdb
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle\bin\Debug\Mono.Android.xml
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\Bicycle\Bicycle\Bicycle\obj\Debug\Bicycle.Views.UserSettingsPage.xaml.g.cs

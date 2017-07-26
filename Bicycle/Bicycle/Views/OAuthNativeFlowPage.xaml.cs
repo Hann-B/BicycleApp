@@ -31,7 +31,6 @@ namespace Bicycle.Views
 
         }
 
-        
         async void GuestLoginClicked(object sender, EventArgs e)
         {
             await Navigation.PushModalAsync(new NavigationPage(new StartPage()));

@@ -34,7 +34,7 @@ namespace Bicycle.Views
 
         private async void UserSettingsItem_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new NavigationPage(new SettingsPage()));
+            await Navigation.PushAsync(new NavigationPage(new UserSettingsPage()));
         }
 
         //private ToolbarItem TBILogIn;

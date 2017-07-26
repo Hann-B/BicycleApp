@@ -10,6 +10,13 @@
             <Button Text="Google" Clicked="GoogleLoginClicked" />
             <Button Text="LinkedIn" Clicked="LinkedInLoginClicked" />
             <Button Text="Instagram" Clicked="InstagramLoginClicked" />
+
+            <!--<Label Text="Username"/>
+            <Entry x:Name="usernameEntry" Placeholder="username"/>
+            <Label Text="Password"/>
+            <Entry x:Name="passwordEntry" IsPassword="True"/>
+            <Button Text="Login" Clicked="OnLoginClicked"/>-->
+            
             <Button Text="Continue as Guest" Clicked="GuestLoginClicked"/>
         </StackLayout>
 

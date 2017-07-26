@@ -1,11 +1,7 @@
 ﻿using Bicycle.Helpers;
 using Bicycle.Models;
-using Bicycle.Services;
 using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 

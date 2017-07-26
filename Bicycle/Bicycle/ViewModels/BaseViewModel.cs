@@ -14,6 +14,7 @@ namespace Bicycle.ViewModels
         /// </summary>
         public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
         public IDestData<Destination> DestData => DependencyService.Get<IDestData<Destination>>();
+        public IUserData<User> UserData => DependencyService.Get<IUserData<User>>();
 
         bool isBusy = false;
         public bool IsBusy
