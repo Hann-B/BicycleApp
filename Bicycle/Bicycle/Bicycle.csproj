@@ -40,6 +40,7 @@
     </Compile>
     <Compile Include="AuthenticationState.cs" />
     <Compile Include="Constants.cs" />
+    <Compile Include="CustomOAuthLoginPresenter.cs" />
     <Compile Include="Helpers\MessengingCenterAlert.cs" />
     <Compile Include="Helpers\ObservableObject.cs" />
     <Compile Include="Helpers\ObservableRangeCollection.cs" />

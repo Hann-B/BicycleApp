@@ -14,11 +14,7 @@ namespace Bicycle.ViewModels
             Title = "Settings";
             this.User = Users.FirstOrDefault();
         }
-        //public UserSettingsViewModel(User user = null)
-        //{
-        //    Title = "Settings";
-        //    User = user;
-        //}
+
     }
 }
 
